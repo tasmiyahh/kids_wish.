@@ -1,0 +1,64 @@
+.header{
+   
+    background-color:#F0FFFF;
+  
+    
+
+}
+.navbar-brand{
+    text-shadow: 5px 5px 5px #800080;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 30px;
+}
+
+.nav-link:hover{
+    background-color: orange;
+}
+
+.logo{
+    border-radius: 50%;
+}
+
+.heading{
+   background-color: #F0FFFF;
+    
+    text-shadow: 3px 3px 3px plum;
+    font-family: 'abril fatface';
+
+}
+
+.fa-brands{
+    font-size: 20px;
+    color: #800080;
+    padding: ;
+}
+
+#footer{
+    background-color:#F0FFFF;
+    color: white;
+}
+
+.footer{
+    color:white;
+    padding: 5px;
+}
+
+
+.aboutus{
+    background-image:url(/logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 500px) {
+    #logo {
+      margin-left: auto;
+      margin-right: auto;
+      height: 50px;
+    width: 100px;   }
+  
+  
+.navbar-toggler-icon,.navbar-toggler{
+    color: #800080;
+    background-color: #800080;
+}
